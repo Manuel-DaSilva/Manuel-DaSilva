@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Manuel-DaSilva
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Svelte/SvelteKit
+- 🌱 I’m currently learning Svelte/SvelteKit, vim and Rust!
